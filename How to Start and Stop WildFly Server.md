@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to Start and Stop WildFly Server
-permalink: /How to Start and Stop WildFly Server/
+permalink: /how-to-start-and-stop-wildfly/
 ---
 
 Change to the bin directory
