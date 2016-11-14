@@ -1,6 +1,6 @@
 ---
 layout: page
-title: top-level-domains.html
+title: Top Level domains
 permalink: /top-level-domains/
 ---
 
