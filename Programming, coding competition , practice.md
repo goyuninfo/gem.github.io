@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programming, coding competition , practice
-permalink: /about/
+permalink: /Programming, coding competition , practice/
 ---
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/International_Olympiad_in_Informatics" rel="nofollow" target="_blank" title="International Olympiad in Informatics">International Olympiad in Informatics</a>, a similar competition for secondary school students.</li>
