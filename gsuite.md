@@ -22,6 +22,3 @@ permalink: /gsuite/
 </span><span style="color: #666666; font-family: &quot;arial&quot;;"><span style="white-space: pre-wrap;">Y3QCPT93NCMY69C</span></span>
 <span style="color: #666666; font-family: &quot;arial&quot;;"><span style="white-space: pre-wrap;">3PU7RKJ97TYLEM</span></span></div>
 </div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://goo.gl/X4FxWR" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="
-_blank"><img alt="Google Apps for Work" height="210" src="https://www.google.com/work/apps/business/landing/partners/referral/email-assets/GfWAppsButtonEN.png" title="Google Apps for Work" width="640" /></a></div>
