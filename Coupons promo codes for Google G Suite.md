@@ -5,7 +5,7 @@ permalink: /Coupons promo codes for Google G Suite/
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-<a href="http://goo.gl/X4FxWR" target=" _blank"><img alt="Google Apps for Work" height="210" src="https://www.google.com/work/apps/business/landing/partners/referral/email-assets/GfWAppsButtonEN.png" title="Google Apps for Work" width="640" /></a><br />
+<a href="http://goo.gl/X4FxWR" target=" _blank"><img alt="Google Apps for Work" height="210" src="https://connect.googleforwork.com/servlet/JiveServlet/showImage/102-18493-5-85805/Sonic_DarwIT_GSuite_ENG+%281%29.png" title="Google G Suite Promo Code Coupon" width="640" /></a><br />
 <br />
 <h2 style="background-color: white; margin: 0px 0px 6px; padding: 0px;">
 <span style="background-color: transparent; color: #666666; font-family: &quot;arial&quot;; font-size: 16px; line-height: 1.15; white-space: pre-wrap;">To redeem:</span></h2>
