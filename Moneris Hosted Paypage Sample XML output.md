@@ -1,3 +1,9 @@
+---
+layout: page
+title: Moneris Hosted Paypage Sample XML output
+permalink: /Moneris Hosted Paypage Sample XML output/
+---
+
 <code>
 <?xml version='1.0' standalone='yes'?>
 <response>
